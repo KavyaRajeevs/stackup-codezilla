@@ -2,10 +2,10 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Kavya R [Embed personal github URL]
-2. Marianna Martin [Embed perosnal github URL]
-3. Mathews Reji [Embed personal github URL]
-4. Kuriakose Philip [Embed perosnal github URL]
+1. Kavya R [https://github.com/KavyaRajeevs]
+2. Marianna Martin [https://github.com/Marianna-Martin]
+3. Mathews Reji [https://github.com/MathewsReji19]
+4. Kuriakose Philip [https://github.com/Kuriakose07]
 ## Team Id
 ```
 codezilla
